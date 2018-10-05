@@ -2,6 +2,10 @@ Welcome to Telusko Kitchen
 
 
 Beans
+chocolate
+burger
+wraps
+pizza
 
 
 Thank you
